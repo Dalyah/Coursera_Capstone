@@ -8,5 +8,8 @@ In this study, I gathered the necessary data from multiple sources to achieve th
 The project will be interesting for anyone interested to open a coffee shop in Riyadh. It will provide the business owner with the top five recommended districts to open the café. Moreover, the project will be helpful for people interested in opening a restaurant having similar criteria to the ones studied here. 
 
 # To use this Analysis:
-1. Download the districts data from: https://github.com/homaily/Saudi-Arabia-Regions-Cities-and-Districts and place it in the Data Folder.
-2.
+1. Download the districts' data from: https://github.com/homaily/Saudi-Arabia-Regions-Cities-and-Districts.
+2. Store downloaded data in 'Data' Folder.
+3. Run prepare_data.py file to prepare the data needed for the analysis.
+4. Create a Foursquare Developer account to be able to run the API calls used in this project.
+5. Go through Coursera-Capstone-Final.ipynd file to run the analysis and visualize the results. 
