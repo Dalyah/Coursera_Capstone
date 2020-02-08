@@ -1,4 +1,4 @@
-# Coursera_Capstone
+# Recommended Riyadh Districts for new Coffee Shop
 In Saudi Arabia, the coffee industry is expanding, especially in Riyadh being the capital of the Kingdom. Coffee becomes a daily necessity for most of people from various society levels. People are seeking a cozy place to have a relaxing time, meet friends or enjoy a family gathering. Also, it is common behavior among students and workers to grape a cup of coffee of their favorite flavor from the nearest Café in the mornings. Saudi people like and enjoy the western style coffee shops making this type of business successful.  
 However, the right place for a café is crucial for the business success. Some metrics needs to be considered in order to choose the right place to open the new café. 
  
